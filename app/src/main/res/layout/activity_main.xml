@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             app:layout_scrollFlags="exitUntilCollapsed|scroll"
             app:contentScrim="@color/colorPrimary"
-            app:title="App Title"
+            app:title="App Titleh"
             app:expandedTitleMarginStart="40dp"
             app:expandedTitleMarginEnd="64dp"
             android:background="@drawable/ic_launcher_background">
